@@ -1,0 +1,266 @@
+
+#right{
+
+    float: right;
+    top: 150%;
+    width: 15%;
+    
+ 
+}
+.tennis-ball{
+    margin-left: 20px;
+    height: 100px;
+    width: 128px;
+}
+#popup-container{
+    position: absolute;
+    left: 25%;
+    top: 100%;
+    z-index: 1111;
+    width: 45%;
+    padding: 20px;
+    border: 5px solid #ccc;
+    box-shadow: 0px 0px 0px #ccc;
+    display: none;
+    background-color: blanchedalmond;
+}
+#close-btn{
+    float: right;
+    cursor: pointer;
+}
+.bgRed{
+    background-color: deepskyblue;
+}
+#search{
+    text-align: center;
+}
+footer{
+    clear: both;
+    position: relative;
+    height: 30px;
+    margin-top: 80px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+mark{
+    background-color: deepskyblue;
+}
+fieldset{
+    background-color: deepskyblue;
+}
+.ellipse img{
+    height: 55%;
+    width: 55%;
+    clip-path: ellipse(30% 40% at 50% 50%);
+    margin-right: 25%;
+}
+#email{
+    margin-left:auto;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    background-color:aqua;
+    border-color: black;
+    
+}
+span{
+    font-weight: bold;
+    text-align: center;
+}
+#writeHere{
+    background-color:darkgoldenrod;
+
+}
+.newarrival{
+    background: deepskyblue;
+    width: 50px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+.soccerball{
+    margin-left: 20px;
+    height: 100px;
+    width: 128px;
+}
+
+.basketball{
+    margin-left: 20px;
+    height: 100px;
+    width: 128px;
+}
+.waterpolo{
+    margin-left: 20px;
+    height: 100px;
+    width: 128px;
+}
+.football{
+    margin-left: 20px;
+    height: 100px;
+    width: 128px;
+}
+.handball{
+    margin-left: 20px;
+    height: 100px;
+    width: 128px; 
+}
+#n1{
+    width: 100px;
+}
+#n2{
+    width: 100px;
+}
+#n3{
+    width: 100px;
+}
+#n4{
+    width: 100px;
+}
+#n5{
+    width: 100px;
+}
+label{
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    background-color: cornflowerblue; 
+}
+
+h2{
+    text-align: center;
+    background-color: deepskyblue;
+}
+select { width: 400px; text-align-last:center; }
+select { width: 150px;
+         margin-left: 530px; 
+         
+} 
+#right{
+
+    float: right;
+    top: 150%;
+    width: 15%;
+    
+ 
+}
+.tennis-ball{
+    margin-left: 20px;
+    height: 100px;
+    width: 128px;
+}
+#popup-container{
+    position: absolute;
+    left: 25%;
+    top: 100%;
+    z-index: 1111;
+    width: 45%;
+    padding: 20px;
+    border: 5px solid #ccc;
+    box-shadow: 0px 0px 0px #ccc;
+    display: none;
+    background-color: blanchedalmond;
+}
+#close-btn{
+    float: right;
+    cursor: pointer;
+}
+.bgRed{
+    background-color: deepskyblue;
+}
+#search{
+    text-align: center;
+}
+footer{
+    clear: both;
+    position: relative;
+    height: 30px;
+    margin-top: 80px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+mark{
+    background-color: deepskyblue;
+}
+fieldset{
+    background-color: deepskyblue;
+}
+.ellipse img{
+    height: 55%;
+    width: 55%;
+    clip-path: ellipse(30% 40% at 50% 50%);
+    margin-right: 25%;
+}
+#email{
+    margin-left:auto;
+}
+
+span{
+    font-weight: bold;
+    text-align: center;
+}
+#writeHere{
+    background-color:darkgoldenrod;
+
+}
+.newarrival{
+    background: deepskyblue;
+    width: 50px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+.soccerball{
+    margin-left: 20px;
+    height: 100px;
+    width: 128px;
+}
+
+.basketball{
+    margin-left: 20px;
+    height: 100px;
+    width: 128px;
+}
+.waterpolo{
+    margin-left: 20px;
+    height: 100px;
+    width: 128px;
+}
+.football{
+    margin-left: 20px;
+    height: 100px;
+    width: 128px;
+}
+.handball{
+    margin-left: 20px;
+    height: 100px;
+    width: 128px; 
+}
+#n1{
+    width: 100px;
+}
+#n2{
+    width: 100px;
+}
+#n3{
+    width: 100px;
+}
+#n4{
+    width: 100px;
+}
+#n5{
+    width: 100px;
+}
+label{
+    font-weight: bold;
+}
